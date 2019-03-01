@@ -11,6 +11,7 @@ public class HelloGit {
 
         System.out.println("Crystal fall in love with you forever~~~");
 
+        System.out.println("Good Good Study !");
 
     }
 }
